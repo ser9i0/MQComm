@@ -1,0 +1,173 @@
+Received initialization: tcp://10.0.2.2:5555
+Successfully connected to tcp://10.0.2.2:5555
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20161230 0000","o":1.04864,"h":1.06457,"l":1.0482,"c":1.05139,"v":125942}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170103 0000","o":1.04498,"h":1.04902,"l":1.03405,"c":1.0406,"v":100604}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170104 0000","o":1.04046,"h":1.04998,"l":1.03897,"c":1.04888,"v":96626}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170105 0000","o":1.04851,"h":1.06153,"l":1.04807,"c":1.06062,"v":139362}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170106 0000","o":1.06048,"h":1.06129,"l":1.0525,"c":1.05319,"v":109314}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170109 0000","o":1.05285,"h":1.05831,"l":1.05108,"c":1.05714,"v":95453}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170110 0000","o":1.05726,"h":1.06267,"l":1.05509,"c":1.05544,"v":112143}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170111 0000","o":1.05527,"h":1.06207,"l":1.0454,"c":1.05827,"v":122214}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170112 0000","o":1.05809,"h":1.06848,"l":1.05714,"c":1.06119,"v":142480}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170113 0000","o":1.06115,"h":1.06706,"l":1.05962,"c":1.06393,"v":107453}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170116 0000","o":1.06036,"h":1.06359,"l":1.05794,"c":1.06003,"v":84291}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170117 0000","o":1.05948,"h":1.07196,"l":1.05948,"c":1.07125,"v":128067}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170118 0000","o":1.07123,"h":1.07151,"l":1.0629,"c":1.06296,"v":98240}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170119 0000","o":1.06286,"h":1.06767,"l":1.05892,"c":1.06624,"v":114302}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170120 0000","o":1.06641,"h":1.07096,"l":1.06252,"c":1.06973,"v":119271}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170123 0000","o":1.0701,"h":1.07686,"l":1.06937,"c":1.07637,"v":105697}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170124 0000","o":1.07635,"h":1.07734,"l":1.07206,"c":1.07324,"v":90387}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170125 0000","o":1.07302,"h":1.07696,"l":1.07114,"c":1.07477,"v":84494}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170126 0000","o":1.0746,"h":1.07658,"l":1.06576,"c":1.06816,"v":103781}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170127 0000","o":1.06804,"h":1.0725,"l":1.06584,"c":1.06949,"v":89204}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170130 0000","o":1.07179,"h":1.07402,"l":1.06203,"c":1.06965,"v":95033}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170131 0000","o":1.06925,"h":1.08122,"l":1.06846,"c":1.07973,"v":120775}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170201 0000","o":1.07973,"h":1.08072,"l":1.07334,"c":1.07684,"v":95886}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170202 0000","o":1.07686,"h":1.08289,"l":1.07559,"c":1.07571,"v":113210}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170203 0000","o":1.07579,"h":1.07977,"l":1.07148,"c":1.07858,"v":104226}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170206 0000","o":1.07878,"h":1.07901,"l":1.07058,"c":1.07501,"v":95357}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170207 0000","o":1.07497,"h":1.07499,"l":1.06562,"c":1.06821,"v":93490}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170208 0000","o":1.0683,"h":1.07126,"l":1.06407,"c":1.06983,"v":95885}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170209 0000","o":1.06976,"h":1.07096,"l":1.06509,"c":1.06556,"v":84487}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170210 0000","o":1.0654,"h":1.06678,"l":1.06078,"c":1.06389,"v":93726}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170213 0000","o":1.06261,"h":1.06585,"l":1.0592,"c":1.05964,"v":87487}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170214 0000","o":1.05973,"h":1.06334,"l":1.05608,"c":1.05788,"v":102806}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170215 0000","o":1.05743,"h":1.06094,"l":1.05214,"c":1.05988,"v":109866}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170216 0000","o":1.05994,"h":1.06793,"l":1.0591,"c":1.06744,"v":108651}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170217 0000","o":1.06723,"h":1.06768,"l":1.06053,"c":1.06093,"v":94628}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170220 0000","o":1.06053,"h":1.0633,"l":1.06032,"c":1.06112,"v":72447}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170221 0000","o":1.06108,"h":1.06154,"l":1.05259,"c":1.0536,"v":94088}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170222 0000","o":1.05354,"h":1.05739,"l":1.04937,"c":1.05571,"v":108084}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170223 0000","o":1.05557,"h":1.05952,"l":1.05376,"c":1.05819,"v":95849}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170224 0000","o":1.05768,"h":1.06179,"l":1.05566,"c":1.05572,"v":104141}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170227 0000","o":1.05613,"h":1.06308,"l":1.05516,"c":1.05865,"v":103972}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170228 0000","o":1.05865,"h":1.06302,"l":1.05693,"c":1.05764,"v":111515}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170301 0000","o":1.05759,"h":1.05892,"l":1.05141,"c":1.05475,"v":138018}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170302 0000","o":1.05475,"h":1.05515,"l":1.04948,"c":1.05064,"v":112725}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170303 0000","o":1.05056,"h":1.06239,"l":1.05019,"c":1.06194,"v":123484}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170306 0000","o":1.06095,"h":1.06401,"l":1.05748,"c":1.05817,"v":99093}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170307 0000","o":1.05806,"h":1.06027,"l":1.05583,"c":1.05661,"v":88551}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170308 0000","o":1.05663,"h":1.05744,"l":1.05349,"c":1.05415,"v":101847}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170309 0000","o":1.05396,"h":1.06154,"l":1.0525,"c":1.0577,"v":129195}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170310 0000","o":1.05757,"h":1.06992,"l":1.05725,"c":1.0671,"v":123619}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170313 0000","o":1.06755,"h":1.07142,"l":1.06521,"c":1.06526,"v":112211}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170314 0000","o":1.06531,"h":1.06628,"l":1.05999,"c":1.06041,"v":97804}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170315 0000","o":1.06038,"h":1.074,"l":1.06035,"c":1.07325,"v":110535}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170316 0000","o":1.07343,"h":1.07703,"l":1.07057,"c":1.07641,"v":119800}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170317 0000","o":1.07657,"h":1.07824,"l":1.07275,"c":1.07379,"v":97752}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170320 0000","o":1.07334,"h":1.07773,"l":1.07252,"c":1.07398,"v":77445}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170321 0000","o":1.07393,"h":1.08193,"l":1.07194,"c":1.08103,"v":110909}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170322 0000","o":1.08085,"h":1.08247,"l":1.0776,"c":1.07984,"v":107428}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170323 0000","o":1.07969,"h":1.0805,"l":1.0768,"c":1.07841,"v":100160}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170324 0000","o":1.07821,"h":1.08179,"l":1.07603,"c":1.07995,"v":95294}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170327 0000","o":1.08383,"h":1.09061,"l":1.08274,"c":1.08628,"v":97489}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170328 0000","o":1.08645,"h":1.08727,"l":1.07989,"c":1.08151,"v":78549}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170329 0000","o":1.08117,"h":1.08267,"l":1.074,"c":1.07661,"v":94718}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170330 0000","o":1.0765,"h":1.07695,"l":1.0672,"c":1.06739,"v":88110}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170331 0000","o":1.0674,"h":1.07019,"l":1.06516,"c":1.06579,"v":94862}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170403 0000","o":1.06575,"h":1.06811,"l":1.06423,"c":1.06696,"v":95362}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170404 0000","o":1.06689,"h":1.06771,"l":1.06356,"c":1.06731,"v":90746}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170405 0000","o":1.06728,"h":1.06892,"l":1.06347,"c":1.06632,"v":105297}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170406 0000","o":1.06625,"h":1.06841,"l":1.06289,"c":1.06435,"v":107783}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170407 0000","o":1.06442,"h":1.06668,"l":1.05806,"c":1.0591,"v":138356}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170410 0000","o":1.05876,"h":1.06066,"l":1.05698,"c":1.05953,"v":83861}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170411 0000","o":1.05948,"h":1.063,"l":1.05786,"c":1.06046,"v":88622}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170412 0000","o":1.06044,"h":1.06751,"l":1.05888,"c":1.06658,"v":106244}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170413 0000","o":1.06637,"h":1.06776,"l":1.06091,"c":1.06131,"v":98597}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170414 0000","o":1.0613,"h":1.063,"l":1.06058,"c":1.06101,"v":49882}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170417 0000","o":1.06109,"h":1.06706,"l":1.06028,"c":1.06432,"v":64978}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170418 0000","o":1.06437,"h":1.07361,"l":1.0637,"c":1.07302,"v":109212}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170419 0000","o":1.07307,"h":1.07371,"l":1.07,"c":1.07111,"v":87374}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170420 0000","o":1.0709,"h":1.07776,"l":1.07087,"c":1.07166,"v":88539}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170421 0000","o":1.07167,"h":1.07381,"l":1.06824,"c":1.07238,"v":89743}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170424 0000","o":1.09196,"h":1.09198,"l":1.08209,"c":1.08671,"v":156786}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170425 0000","o":1.0867,"h":1.09501,"l":1.08515,"c":1.09262,"v":100197}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170426 0000","o":1.0925,"h":1.0951,"l":1.08558,"c":1.0904,"v":131023}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170427 0000","o":1.09039,"h":1.09331,"l":1.08517,"c":1.0872,"v":120472}
+Received reply: OK
+Sent request: {"s":"EURUSD","t":"CURRENCY","r":1440,"d":"20170427 0000","o":1.09039,"h":1.09331,"l":1.08517,"c":1.0872,"v":120472}
+Received reply: OK
+Socket disconnected

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1496858562 source:c:\users\mt4\ws\mqcomm\main.cpp
+	<zmq.h>
+
+1483201547 c:\users\mt4\ws\mqcomm\include\zmq.h
+	<errno.h>
+	<stddef.h>
+	<stdio.h>
+	<winsock2.h>
+	<inttypes.h>
+	<stdint.h>
+	<poll.h>
+
+1510950301 source:c:\users\mt4\ws\mqcomm\src\mqcomm.cpp
+	<assert.h>
+	<cstdio>
+	<iostream>
+	<string>
+	<zmq.h>
+	"mqcomm.hpp"
+
+1483197947 c:\libzmq\include\zmq.h
+	<errno.h>
+	<stddef.h>
+	<stdio.h>
+	<winsock2.h>
+	<inttypes.h>
+	<stdint.h>
+	<poll.h>
+
+1510949592 c:\users\mt4\ws\mqcomm\include\mqcomm.hpp
+
